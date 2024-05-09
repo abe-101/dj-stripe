@@ -1,5 +1,5 @@
 """
-dj-stripe - Django + Stripe Made Easy
+dj-stripe - Django + Stripe Made Easy with mod
 """
 from importlib.metadata import version
 
